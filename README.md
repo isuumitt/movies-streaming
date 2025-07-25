@@ -1,31 +1,29 @@
-# movies streaming 
-# 🎬 Movies Streaming 
+# Netflix Clone Landing Page
 
-A responsive and visually appealing Netflix clone built using HTML, CSS, and JavaScript (or React – agar use kiya ho). This project mimics the design and UI/UX of the popular streaming platform Netflix, showcasing a homepage with hero banners, category sections, and hover effects.
+A responsive and visually appealing landing page inspired by Netflix, built using **HTML** and **CSS**.  
+This project showcases a modern homepage design with hero banners, trending sections, and hover effects.
 
-## 🚀 Demo
+## 🚀 Live Demo
+[View Live](https://isuumitt.github.io/netflix-clone/)
 
-👉 [Live Preview](https://isuumitt.github.io/Movies-streaming/)
+## 📷 Screenshots
+![Screenshot](screenshot.png)
 
-## 🖼️ Screenshots
-
-![Movies streaming Screenshot](screenshot.png)
-
-## 🔧 Technologies Used
-
+## 🛠 Technologies Used
 - HTML5
-- CSS3 
-- Responsive Design Technique
+- CSS3
+- Responsive Design Techniques
 
-## 🎯 Features
+## ✨ Features
+- Fully responsive layout
+- Hero banner with call-to-action
+- Trending movies/TV shows section
+- Hover animations and effects
+- Footer with useful links
 
-- ✅ Fully responsive layout
-- ✅ Hero banner section
-- ✅ Movie/TV show thumbnails
-- ✅ Hover animations
-- ✅ Footer with useful links
+---
 
-
+**Note:** This project is for educational purposes only and does not stream or host any media content.
 
 
 
