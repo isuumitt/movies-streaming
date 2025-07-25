@@ -5,7 +5,7 @@ A responsive and visually appealing Netflix clone built using HTML, CSS, and Jav
 
 ## 🚀 Demo
 
-👉 [Live Preview](https://your-live-demo-link.com)
+👉 [Live Preview](https://isuumitt.github.io/Netflix-Clone/)
 
 ## 🖼️ Screenshots
 
