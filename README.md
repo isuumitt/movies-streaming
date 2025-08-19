@@ -6,9 +6,9 @@ This project showcases a modern homepage design with hero banners, trending sect
 ## 🚀 Live Demo
 [View Live](https://isuumitt.github.io/netflix-clone/)
 
-(if show any type or error then reopen in incognito tab )
+#if show any type or error then reopen in incognito tab 
 
-## Please try in desktop mode 
+## Please try in Laptop for better experience 🙏 
 
 ## 🔗 Or
 👉 [Try this ](https://dashing-faloodeh-0bfd2c.netlify.app/)
