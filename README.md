@@ -8,7 +8,7 @@ This project showcases a modern homepage design with hero banners, trending sect
 
 #if show any type or error then reopen in incognito tab 
 
-## Please try in Laptop for better experience 🙏 
+## This is not responsible now so try in Laptop for better experience 🙏 
 
 ## 🔗 Or
 👉 [Try this ](https://dashing-faloodeh-0bfd2c.netlify.app/)
