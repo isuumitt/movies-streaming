@@ -4,14 +4,12 @@ A responsive and visually appealing landing page inspired by Netflix, built usin
 This project showcases a modern homepage design with hero banners, trending sections, and hover effects.
 
 ## 🚀 Live Demo
-[View Live](https://isuumitt.github.io/netflix-clone/)
+[View Live](https://dashing-faloodeh-0bfd2c.netlify.app/)
 
 #if show any type or error then reopen in incognito tab 
 
-## This is not responsible now so try in Laptop for better experience 🙏 
+## This is not responsible now so try in Laptop for better experience 
 
-## 🔗 Or
-👉 [Try this ](https://dashing-faloodeh-0bfd2c.netlify.app/)
 
 
 ## 📷 Screenshots
